@@ -1,0 +1,42 @@
+# 🚀 Project Setup Guide
+
+Panduan singkat untuk menjalankan project ini di lokal.  
+
+---
+
+## Server-side
+
+```sh
+cd server
+pnpm install
+pnpm dev
+
+Server akan berjalan di:
+👉 http://localhost:5000
+🎨 Client-side
+```
+## Client-side
+
+```sh
+cd client
+pnpm install
+pnpm dev
+
+Client akan berjalan di:
+👉 http://localhost:5173
+
+
+
+
+```
+## DataBase
+
+```sh
+
+Jangan lupa siapkan database sebelum menjalankan project:
+
+    Pastikan sudah membuat database sesuai konfigurasi.
+
+    Jalankan migration/seed jika diperlukan.
+
+    Cek file .env agar koneksi database benar.
