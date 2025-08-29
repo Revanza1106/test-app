@@ -7,18 +7,18 @@ Panduan singkat untuk menjalankan project ini di lokal.
 ## Server-side
 
 ```sh
-cd server
+cd server-side
 pnpm install
 pnpm dev
 
 Server akan berjalan di:
 👉 http://localhost:5000
-🎨 Client-side
+
 ```
 ## Client-side
 
 ```sh
-cd client
+cd client-side
 pnpm install
 pnpm dev
 
