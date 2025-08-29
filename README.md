@@ -37,6 +37,4 @@ Jangan lupa siapkan database sebelum menjalankan project:
 
     Pastikan sudah membuat database sesuai konfigurasi.
 
-    Jalankan migration/seed jika diperlukan.
-
     Cek file .env agar koneksi database benar.
